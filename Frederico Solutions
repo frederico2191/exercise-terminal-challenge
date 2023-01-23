@@ -1,0 +1,34 @@
+1- pwd
+2- ls -a
+3- ls * -r
+4- CRT + L
+
+5-  cd workspace/exercise-terminal-challenge/thecmdchallenge/small-name/bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious
+    cat trophy.txt
+
+6-cd funcode && ls *.js
+
+7-  cd funcode/
+    mkdir not-that-funny
+
+8-  cd workspace/exercise-terminal-challenge/thecmdchallenge/boringfolder/event-more-boring/i-can-believe-how-boring/the-ulrimate-boring-inception
+    cp the-mostboring-text.txt lol.txt
+
+9-  mv funcode/kids.jpg funcode/images/hello/
+
+
+10- rmdir small-name
+
+11- Find * -type f
+    cat funcode/the-most-funny/lol/the-ultimate-joke.txt
+
+12- cd funcode/kamehameha
+    vi dragon-ball-jokes.txt
+
+
+12- cd funcode/kamehameha
+    vi dragon-ball-jokes.txt
+    (delete the 1st joke CMD + X)
+    :wq
+
+
